@@ -1,5 +1,7 @@
 # Tableau를 이용한 데이터 과학 급여 데이터셋 시각화
 
+<br/>
+
 ## 데이터셋 특징
 
 |컬럼|설명|
@@ -16,5 +18,24 @@
 |회사 위치|직원이 근무하는 회사의 위치입니다.|
 |회사 규모	|직원 수에 따른 회사의 규모(예: 소규모, 중규모, 대규모).|
 
+<br/><br/><br/><br/>
 
-![image](https://github.com/user-attachments/assets/29c49b22-f804-451e-875b-2e2d67396e24)
+<img src='https://github.com/user-attachments/assets/29c49b22-f804-451e-875b-2e2d67396e24' align='left'/>
+
+</br><br/><br/><br/>
+
+### 차원은 정성적 값(예: 이름, 날짜, 지리적 데이터 등)을 포함합니다.
+### 차원을 사용하여 데이터의 세부 정보를 분류하고 나누고 표시할 수 있습니다.
+### 차원은 뷰의 세부 수준에 영향을 미칩니다.
+
+</br><br/><br/><br/>
+
+<img src='https://github.com/user-attachments/assets/2ef9706d-41ec-43fd-a013-a32f9581dae0' align='right'/>
+
+</br><br/><br/><br/>
+
+### 측정값은 측정할 수 있는 정량적 수치 값을 포함합니다.
+### 측정값은 기본적으로 집계됩니다.
+### 측정값을 뷰에 끌어 놓으면 Tableau가 알약 모양에 집계를 적용합니다.
+
+
